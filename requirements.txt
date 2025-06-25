@@ -1,0 +1,15 @@
+smolagents
+requests
+gradio
+pandas
+langchain
+langchain-community
+huggingface_hub
+duckduckgo-search
+beautifulsoup4
+PyPDF2
+sentence-transformers
+faiss-cpu
+youtube-transcript-api
+wikipedia
+arxiv
