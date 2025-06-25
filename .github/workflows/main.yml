@@ -1,0 +1,3 @@
+git clone https://github.com/bostonbyte/GAIA-agent-solver.git
+git cd GAIA-agent-solver
+git checkout -b chore_setup-github-actions
